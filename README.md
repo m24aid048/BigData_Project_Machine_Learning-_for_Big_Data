@@ -28,11 +28,11 @@ Distributed near-duplicate document detection on large-scale Wikipedia text usin
 
 Follow these steps in order. Steps 0–4 are one-time setup; steps 5–7 are how you run the project day-to-day.
 
-## Step 0 — Install an IDE / code editor
+## Step 0 — Install an IDE/code editor
 
 You will need a code editor (IDE) to open the project, browse the source, and run terminal commands. We developed and tested this project using **Visual Studio Code (VS Code)**, and we recommend it.
 
-- Download **VS Code** from [https://code.visualstudio.com](https://code.visualstudio.com) and install it for your OS (Windows / macOS / Linux).
+- Download **VS Code** from: -[https://code.visualstudio.com](https://code.visualstudio.com) and install it for your OS (Windows / macOS / Linux).
 - Recommended VS Code extensions:
   - **Python** (Microsoft) — interpreter selection, linting, debugging.
   - **Jupyter** (optional) — for inspecting notebooks if you add any.
